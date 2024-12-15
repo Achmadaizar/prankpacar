@@ -1,0 +1,27 @@
+.inti {
+   background: hotpink;
+   width: 200px;
+   height: 80px;
+   position: absolute;
+   transform: translate(-50%,-50%);
+   left: 50%;
+   top: 50%;
+   border: 2px solid black;
+   border-radius: 5px;
+}
+
+#y {
+   background: lawngreen;
+   border: 2px solid black;
+   width: 50px;
+   position: absolute;
+   left: 40px;
+}
+
+#tdk {
+   background: red;
+   border: 2px solid black;
+   width: 50px;
+   position: absolute;
+   
+}
